@@ -1,0 +1,9 @@
+
+WARNING 2022-02-18 23:00:25,489 -- Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '&*(&(*&']
+WARNING 2022-02-18 23:01:32,461 -- Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '&*(&*(&']
+WARNING 2022-02-18 23:02:05,802 -- Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '&*(&(*&']
+WARNING 2022-02-18 23:04:28,167 -- Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '&*(&*(&*(*(&&&(*&*(*&']
+WARNING 2022-02-18 23:07:27,524 -- Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '$%*&@*&$(*&$']
+WARNING 2022-02-19 15:27:42,818 -- Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '^&*^*&(^*&(^*(&^*(&^&*^&*^*&(*^&*']
+
+WARNING 2022-02-21 23:30:33,417 -- Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '()&*&*(&*(']
